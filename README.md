@@ -5,14 +5,11 @@ This is a full __Commerce 2__ demo website built on __Drupal 8__. It has been bu
 1. So that people can view, interact and login to an actual working demo site.
 2. So that developers can install, trial and review code and configuration.
 3. So that the community can see and discuss what Drupal Commerce includes basically out of-the-box.
-
-__NOTE:__ This is __NOT__ intended to be a base for building a new project, for that we recommend generating your own composer files or use the [Commerce Kickstart](https://www.commercekickstart.com).
+4. Provide a starting template for smaller businesses that van be leveraged and grown.
 
 ## Welcome!
 
-The Urban Hipster demo site has been designed, built and maintained by [__Acro Media Inc.__](https://www.acromedia.com) in order to showcase a working demo of Commerce 2 on Drupal 8. Our goal is to provide an enterprise level example of what can be done out-of-the-box with general software configuration and theming. 
-
-__Please understand that while we strive to keep the site and its components updated to the latest versions, there may be times where we lag behind a bit.__
+The original Urban Hipster demo site was designed by Acromedia,  this fork of that project is maintained by [__Wembassy__](https://www.wembassy.com) in order to showcase a working demo of Commerce 2 on Drupal 8. Our goal is to provide an enterprise level example of what can be done out-of-the-box with general software configuration and theming. 
 
 If you notice any bugs, please submit an issue. We’ll do our best to keep on top of things.
 
@@ -20,13 +17,13 @@ If you notice any bugs, please submit an issue. We’ll do our best to keep on t
 
 ### View the demo site
 
-If you still haven’t seen the demo site, [check it out!](https://commerce.acromedia.com).
+If you still haven’t seen the demo site, [check it out!](https://commerce.wembassy.com).
 
 Click around, take the interactive guided tours, go through the checkout flow, whatever. This site is made so that you can truly experience what Commerce 2 and Drupal 8 offer as a standard.
 
 ### Get a personalized tour
 
-If you’d like to have one of our experts go through the site with you and discuss how things work, use the demo site chat or [send us a message](https://www.acromedia.com/contact-us). We’ll set something up that works around your schedule. You can contact us through are website [here](https://www.acromedia.com/contact-us).
+If you’d like to have one of our experts go through the site with you and discuss how things work, use the demo site chat or [send us a message](https://www.wembassy.com/contact-us). We’ll set something up that works around your schedule. You can contact us through are website [here](https://www.wembassy.com/contact-us).
 
 ### Developer access
 
@@ -34,7 +31,7 @@ If you’d like to setup a copy of the demo yourself, follow these instructions.
 
 #### Option A: Lando dev environment
 __Requirements__
-* [Lando](https://docs.lando.dev/)
+* [Lando](https://docs.lando.dev/), Xampp, or [Drupal Dev](https://ddev.readthedocs.io/en/latest/#installation)
 * General knowledge on how to use this tool
 
 __To setup the demo__
@@ -120,7 +117,7 @@ If those don’t help, Google the issue or submit an issue to our issue queue. G
 
 ### Let us set it up for you (and other stuff)
 
-If you’re a business and interested in having Acro Media setup the demo for you, or if you’d like to talk to us about something else, [contact us!](https://www.acromedia.com/contact-us)
+If you’re a business and interested in having Wembassy setup this site as a starter for your business, or if you’d like to talk to us about something else, [contact us!](https://www.wembassy.com/contact-us)
 
 ## Photo Credits
 
